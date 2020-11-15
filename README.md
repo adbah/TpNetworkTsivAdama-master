@@ -1,13 +1,11 @@
 # TpNetworkTsivAdama-master
-TP 1 CSR
+TP 1  Mobile V2
 
 Technos
  Kotlin
 
-Period
-
+Period :
 September 2020
-
 
 Authors : 
 BAH Adama
