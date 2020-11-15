@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:title="@string/reset"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ajout_objet"
+        android:orderInCategory="100"
+        android:title="@string/ajout_objet"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ajout_connexion"
+        android:orderInCategory="100"
+        android:title="@string/ajout_connexion"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/modification_objet"
+        android:orderInCategory="100"
+        android:title="@string/modification_objet"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/saveNetwork"
+        android:title="@string/saveNetwork" />
+    <item
+        android:id="@+id/showNetwork"
+        android:title="@string/showNetwork" />
+    <item
+        android:id="@+id/sendNetwork"
+        android:title="@string/sendNetwork" />
+</menu>

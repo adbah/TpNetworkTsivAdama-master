@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Network TSIVANYO/BAH</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le panneau de navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Android Studio</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="reset">Réinitialiser le réseau</string>
+    <string name="ajout_objet">Ajout objet</string>
+    <string name="ajout_connexion">Ajout connexion</string>
+    <string name="modification_objet">Modification objets/connexions</string>
+    <string name="title_object">Entrez le titre de l\'objet</string>
+    <string name="ok">Valider</string>
+    <string name="cancel">Annuler</string>
+    <string name="msg_confirm">Voulez vous effacer les objets/connectés du réseau ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="title_confirm">Réinitialiser le réseau</string>
+</resources>

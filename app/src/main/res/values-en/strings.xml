@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Network TSIVANYO/BAH</string>
+    <string name="reset">Reset network</string>
+    <string name="ajout_objet">Add object</string>
+    <string name="ajout_connexion">Add connection</string>
+    <string name="modification_objet">Modifying objects / connections</string>
+    <string name="title_object">Enter the title of the object</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">Android Studio</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="msg_confirm">Do you want to erase objects/connections from the network?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_confirm">Reset network</string>
+</resources>
